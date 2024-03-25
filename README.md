@@ -50,7 +50,6 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
-[Screenshot 2023-09-12 081943](https://github.com/keerthysesha/simplewebserver/assets/125575936/3cfef08e-4ada-42c6-b77c-0bc41b872fcc)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
